@@ -145,7 +145,7 @@ int main() {
         cout << "\n===== FLOOD MONITORING SYSTEM =====\n";
         cout << "1. Mark flooded area\n";
         cout << "2. View flood status\n"; 
-        cout << "3. Find evacuation route (Dijkstra)\n";
+        cout << "3. Find evacuation route\n";
         cout << "4. View emergency alerts\n";
         cout << "5. Clear alerts\n";
         cout << "6. Reset flood status\n";
